@@ -16,7 +16,7 @@ EG-Solo dataset, the first dataset which contains both note labels and technique
 |Guitar Gym                          | 6 |  50|  864|  270|  92|  12|  16| 185| 141| 11| 123| 14|
 |**Total** | **76**| **526**| **6833**| **4087**| **404**| **570**| **435**| **294**| **586**| **24**| **375**| **58**| 
 
-
+The labels of note, technique, and phrase are available in the [drive](https://drive.google.com/drive/u/0/folders/1iC7Q8imfKtesEfnaIz0hjWJU5680M2hy).
 
 ## Real-world music transcription 
 
