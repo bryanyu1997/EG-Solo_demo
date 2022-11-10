@@ -21,7 +21,7 @@ The labels of note, technique, and phrase are available in the [drive](https://d
 ## Real-world music transcription 
 Some demo. 
 
-|Clip|Youtube| Ground-truth MIDI| Solola MIDI| Our Predicted MIDI|
+||Youtube| Ground-truth MIDI| Solola MIDI| Our Predicted MIDI|
 |--|--|--|--|--|
 |a|[![IMAGE_ALT](https://i.imgur.com/4vpIr04.jpg =25%x25%)](https://www.youtube.com/watch?v=-Qnthf_4aiY&t=7m59s)|<audio src="transcription_demo/ground-truth/9_Bohemian_gt.wav" controls="" preload=""></audio>|<audio src="transcription_demo/solola/9.wav" controls="" preload=""></audio>|<audio src="transcription_demo/our-predicted/9_Bohemian.wav" controls="" preload=""></audio>|
 |b|[![IMAGE_ALT](https://i.imgur.com/4RWLLRL.jpg =25%x25%)](https://www.youtube.com/watch?v=-Qnthf_4aiY&t=8m26s)|<audio src="transcription_demo/ground-truth/10_Sweet_Home_gt.wav" controls="" preload=""></audio>|<audio src="transcription_demo/solola/10.wav" controls="" preload=""></audio>|<audio src="transcription_demo/our-predicted/10_Sweet_Home.wav" controls="" preload=""></audio>|
