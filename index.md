@@ -29,6 +29,5 @@ Some demo.
 |[![IMAGE_ALT](https://i.imgur.com/7NV9zKa.jpg =25%x25%)](https://www.youtube.com/watch?v=w8KlZvTrjcI&t=1274s&ab_channel=GuillaumeVrac&t=1m4s)|<audio src="transcription_demo/ground-truth/50_3_Parisienne_Walkways_gt.wav" controls="" preload=""></audio>|<audio src="transcription_demo/solola/3.wav" controls="" preload=""></audio>|<audio src="transcription_demo/our-predicted/50_3_Parisienne_Walkways.wav" controls="" preload=""></audio>|
 |[![IMAGE_ALT](https://i.imgur.com/JDtXB7H.jpg =25%x25%)](https://www.youtube.com/watch?v=w8KlZvTrjcI&t=1274s&ab_channel=GuillaumeVrac&t=5m14s)|<audio src="transcription_demo/ground-truth/50_14_Smells_Like_Teen_Spirit_gt.wav" controls="" preload=""></audio>|<audio src="transcription_demo/solola/14.wav" controls="" preload=""></audio>|<audio src="transcription_demo/our-predicted/50_14_Smells_Like_Teen_Spirit.wav" controls="" preload=""></audio>|
 
-transcription_demo/solola/
 
 ## Contact
